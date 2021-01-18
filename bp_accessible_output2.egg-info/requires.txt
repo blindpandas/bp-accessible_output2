@@ -1,7 +1,0 @@
-bp-platform-utils
-
-[:sys_platform == "Darwin"]
-appscript
-
-[:sys_platform == "win32"]
-pywin32==228
